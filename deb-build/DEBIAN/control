@@ -1,0 +1,9 @@
+Package: ttdm
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: termux-x11-nightly, x11-repo
+Maintainer: chocolife13 <email@exemple.com>
+Installed-Size: 4
+Description: yaaaaaay
